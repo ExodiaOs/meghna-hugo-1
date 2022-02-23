@@ -2,7 +2,7 @@ baseURL = "https://ExodiaOS.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
-summaryLength = "15"
+summaryLength = "30"
 theme = "meghna-hugo"
 title = "Exodia"
 [Languages.en]
