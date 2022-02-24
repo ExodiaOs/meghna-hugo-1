@@ -10,14 +10,12 @@ team:
     content: An independent and self-motivated Cyber security enthusiast with proven
       and ethical hacking, pen-testing and red-team skills
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
     - icon: ti-linkedin
-      link: "#"
+      link: https://www.linkedin.com/in/abdallah-adham/
+    - icon: ti-github
+      link: https://github.com/0xSkorpioN
     - icon: ti-dribbble
-      link: "#"
+      link: https://0xskorpion.github.io/
   - name: Frank Miller
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
