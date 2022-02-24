@@ -1,4 +1,4 @@
-baseURL = "https://ExodiaOS.netlify.com"
+baseURL = "https://exodiaos.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
