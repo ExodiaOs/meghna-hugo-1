@@ -101,7 +101,7 @@ weight = 8
 author = "Exodia"
 description = "ExodiaOS is an operating system with a collection of pre-configured or  automatically configured tools that automate and ease the process of  doing robust ethical hacking and incidence response activities concerned  with Wireless attacks."
 google_analytics_id = ""
-logo = "images/logo5.png"
+logo = "images/logo4.png"
 post_share = true
 [params.cookies]
 enable = true
