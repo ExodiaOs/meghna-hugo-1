@@ -5,7 +5,7 @@ team:
   team_member:
   - name: 'Mahmoud Mohamed '
     image_webp: ''
-    image: ''
+    image: images/team/ozil.jpg
     designation: ExodiaOS Publisher
     content: Linux administration researcher with self-motivated Cybersecurity skills.
     social:
