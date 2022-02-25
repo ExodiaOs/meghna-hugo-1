@@ -106,7 +106,7 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo5.png"
 [[params.social]]
-icon = "tii-email"
+icon = "ti-email"
 link = "exodiaa.os@gmail.com"
 [[params.social]]
 icon = "ti-github"
