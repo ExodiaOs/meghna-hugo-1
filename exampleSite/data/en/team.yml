@@ -4,11 +4,13 @@ team:
   title: Our Team
   team_member:
   - name: Hashem Khaled
-    image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
-    social: ''
+    image_webp: images/team/hashem.webp
+    image: images/team/hashem.jpg
+    designation: hfghfghfgh
+    content: gjghjghjfjfghj
+    social:
+    - icon: ti-facebook
+      link: https://www.facebook.com/hashemkhaledd
   - name: 'Mahmoud Mohamed '
     image_webp: images/team/ozil.webp
     image: images/team/ozil.jpg
