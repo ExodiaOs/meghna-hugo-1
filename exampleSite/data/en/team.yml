@@ -8,16 +8,14 @@ team:
     image: images/team/ozil.jpg
     designation: ExodiaOS Publisher
     content: |-
-      - Linux administration researcher.
-      - Cybersecurity enthusiast.
-      - Acer Predator fanboy
+      Linux administration researcher.
+      Cybersecurity enthusiast.
+      Acer Predator fanboy
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5
     - icon: ti-github
       link: https://github.com/mmsaeed509
-    - icon: ti-gitlab
-      link: https://gitlab.com/mmsaeed509
     - icon: ti-facebook
       link: https://www.facebook.com/engrody.linux.5/
     - icon: ti-instagram
@@ -41,6 +39,6 @@ team:
     image_webp: images/team/hashem.webp
     designation: Network Engineer
     content: |-
-      - Network Admin.
-      - Linux Admin.
-      - MS Server Admin.
+      Network Admin.
+      Linux Admin.
+      MS Server Admin.
