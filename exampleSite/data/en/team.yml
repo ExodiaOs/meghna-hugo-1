@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: Hashem Khaled
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: 'Mahmoud Mohamed '
     image_webp: images/team/ozil.webp
     image: images/team/ozil.jpg
