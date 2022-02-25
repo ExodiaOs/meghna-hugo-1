@@ -3,14 +3,6 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Hashem Khaled
-    image_webp: images/team/hashem.webp
-    image: images/team/hashem.jpg
-    designation: hfghfghfgh
-    content: gjghjghjfjfghj
-    social:
-    - icon: ti-facebook
-      link: https://www.facebook.com/hashemkhaledd
   - name: 'Mahmoud Mohamed '
     image_webp: images/team/ozil.webp
     image: images/team/ozil.jpg
@@ -39,3 +31,18 @@ team:
       link: https://github.com/0xSkorpioN
     - icon: ti-dribbble
       link: https://0xskorpion.github.io/
+  - name: Hashem Khaled
+    image_webp: images/team/hashem.webp
+    image: images/team/hashem.jpg
+    designation: Network Engineer
+    content: |-
+      - Linux Admin.
+      - Network Admin.
+      - MS Server Admin.
+    social:
+    - icon: ti-github
+      link: https://github.com/hashemkhaledd
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/hashem-khaled-a0bb3a221
+    - icon: ti-facebook
+      link: https://www.facebook.com/hashemkhaledd
