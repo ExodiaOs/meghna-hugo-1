@@ -8,24 +8,41 @@ feature:
     such as Ethical Hacking and Incidence Response in the Wireless field.
   feature_item:
   - title: ARMEL and ARMHF Supports.
-    icon: ti-pulse
-    content: "ExodiaOS supports a wide range of ARM devices and has an ARM \nrepositories
-      integrated with the mainline version, allowing ARM tools \nto be updated alongside
-      the rest of the distribution."
+    icon: ti-desktop
+    content: ExodiaOS supports a wide range of ARM devices and has ARM repositories
+      integrated with the mainline version, allowing ARM tools to be updated alongside
+      the rest of the distribution.
   - title: Multi-Language Support.
-    icon: ti-panel
-    content: "Although Wireless Security tools are written in English, we've \nensured
-      that ExodiaOS comprises true multilingual support, \npermitting more users to
-      work in their local language and locate the \nrequired tools."
+    icon: ti-write
+    content: Although Wireless Security tools are written in English, we've ensured
+      that ExodiaOS comprises true multilingual support, permitting more users to
+      work in their local language and locate the required tools.
   - title: Full customization of Exodia ISO.
     icon: ti-panel
-    content: "ExodiaOS Linux is heavily integrated with live-build, giving us a lot
-      \nof flexibility in customizing and modifying our ExodiaOS ISO \nimages"
+    content: ExodiaOS Linux is heavily integrated with live-build, giving us a lot
+      of flexibility in customizing and modifying our ExodiaOS ISO images.
   - title: Live USB Boot.
-    icon: ti-announcement
-    content: "This enables us to install ExodiaOS on a USB device and boot it \nwithout
-      having to touch the host operating system."
+    icon: ti-harddrive
+    content: This enables us to install ExodiaOS on a USB device and boot it without
+      having to touch the host operating system.
   - title: Free and Open source.
-    content: "ExodiaOS is and always will be absolutely free. We will never, ever
-      \nhave to pay for ExodiaOS"
+    content: ExodiaOS is and always will be absolutely free. You will never, ever
+      have to pay for our service.
     icon: ti-money
+  - title: Over 100 Wireless Security tools pre-installed.
+    content: ExodiaOS comprises more than 600 useful tools such as Wifite, Aircrak-ng,
+      Wireshark, and AirJack.
+    icon: ti-hummer
+  - title: Developed in a secure environment.
+    icon: ti-shield
+    content: The ExodiaOS team consists of a small group of people who are allowed
+      to commit packages and communicate with repositories, all of which is done through
+      several security protocols.
+  - title: Wide-ranging wireless device support.
+    icon: ti-help
+    content: ExodiaOS is designed to work with as many wireless devices as possible,
+      enabling it to run on a wide range of hardware and connect with various USB
+      and other wireless devices.
+  - title: ''
+    icon: ''
+    content: ''
