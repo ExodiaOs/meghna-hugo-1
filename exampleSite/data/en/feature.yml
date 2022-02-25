@@ -12,15 +12,20 @@ feature:
     content: "ExodiaOS supports a wide range of ARM devices and has an ARM \nrepositories
       integrated with the mainline version, allowing ARM tools \nto be updated alongside
       the rest of the distribution."
-  - title: Easy Customization
+  - title: Multi-Language Support.
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: Easy Customization
+    content: "Although Wireless Security tools are written in English, we've \nensured
+      that ExodiaOS comprises true multilingual support, \npermitting more users to
+      work in their local language and locate the \nrequired tools."
+  - title: Full customization of Exodia ISO.
+    icon: ti-panel
+    content: "ExodiaOS Linux is heavily integrated with live-build, giving us a lot
+      \nof flexibility in customizing and modifying our ExodiaOS ISO \nimages"
+  - title: Live USB Boot.
     icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: "This enables us to install ExodiaOS on a USB device and boot it \nwithout
+      having to touch the host operating system."
+  - title: Free and Open source.
+    content: "ExodiaOS is and always will be absolutely free. We will never, ever
+      \nhave to pay for ExodiaOS"
+    icon: ti-money
