@@ -7,7 +7,7 @@ team:
     image_webp: images/team/ozil.webp
     image: images/team/ozil.jpg
     designation: ExodiaOS Publisher
-    content: Linux administration researcher, Cybersecurity enthusiast, Acer Predator
+    content: Linux administration researcher, Cybersecurity enthusiast and Acer Predator
       fanboy
     social:
     - icon: ti-linkedin
@@ -35,10 +35,7 @@ team:
     image_webp: images/team/hashem.webp
     image: images/team/hashem.jpg
     designation: Network Engineer
-    content: |-
-      - Linux Admin.
-      - Network Admin.
-      - MS Server Admin.
+    content: Linux Admin, Network Admin and MS Server Admin.
     social:
     - icon: ti-github
       link: https://github.com/hashemkhaledd
