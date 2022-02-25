@@ -60,8 +60,7 @@ team:
     image_webp: images/team/omar.webp
     image: images/team/omar.jpg
     designation: Software Engineer
-    content: Analyzing and modifying existing software. also, designing and testing
-      applications.
+    content: Analyzing and modifying existing software, designing and testing applications.
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/omar-ismail-0855561b1/
