@@ -1,13 +1,13 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: images/backgrounds/bg1.jpg
+  bg_image_webp: images/backgrounds/bg1.webp
   title: Download now!
   content: |-
     ExodiaOS Beta version is available now.
     Try it and give us your feedback.
   button:
     enable: true
-    label: Download ExodiaOS.
+    label: Download ExodiaOS
     link: "#contact"
