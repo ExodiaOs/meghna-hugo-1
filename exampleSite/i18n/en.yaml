@@ -21,8 +21,6 @@
   translation: Service
 - id: portfolio
   translation: Portfolio
-- id: pricing
-  translation: Pricing
 - id: blog
   translation: Blog
 - id: contact
