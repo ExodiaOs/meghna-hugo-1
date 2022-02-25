@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
+    name: Hashem Khaled
   - name: 'Mahmoud Mohamed '
     image_webp: images/team/ozil.webp
     image: images/team/ozil.jpg
@@ -31,9 +37,3 @@ team:
       link: https://github.com/0xSkorpioN
     - icon: ti-dribbble
       link: https://0xskorpion.github.io/
-  - image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
-    social: ''
-    name: Hashem Khaled
