@@ -5,7 +5,7 @@ contact:
   subtitle: Contact Details
   content: Feel free to contact us for any extra help with ExodiaOS.
   contact_list:
-  - icon: ti-gmail
+  - icon: ti-email
     info: 'Email: exodiaa.os@gmail.com'
   contact_form:
     enable: true
