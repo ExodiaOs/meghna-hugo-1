@@ -34,7 +34,7 @@ team:
     image_webp: images/team/hashem.webp
     image: images/team/hashem.jpg
     designation: Network Engineer
-    content: Linux Admin, Network Admin and MS Server Admin.
+    content: Setting up, developing and maintaining computer networks within an organization.
     social:
     - icon: ti-github
       link: https://github.com/hashemkhaledd
