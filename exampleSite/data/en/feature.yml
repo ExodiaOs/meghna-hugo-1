@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: images/about/coding.jpg
+  image_webp: images/about/coding.webp
   title: ExodiaOS Features
   content: ExodiaOS provides a lot of features that help people from various backgrounds
     such as Ethical Hacking and Incidence Response in the Wireless field.
