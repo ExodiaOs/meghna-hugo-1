@@ -3,14 +3,15 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: Our Features
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  title: ExodiaOS Features
+  content: ExodiaOS provides a lot of features that help people from various backgrounds
+    such as Ethical Hacking and Incidence Response in the Wireless field.
   feature_item:
-  - title: SEO Optimized
-    icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: ARMEL and ARMHF Supports.
+    icon: ti-pulse
+    content: "ExodiaOS supports a wide range of ARM devices and has an ARM \nrepositories
+      integrated with the mainline version, allowing ARM tools \nto be updated alongside
+      the rest of the distribution."
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
