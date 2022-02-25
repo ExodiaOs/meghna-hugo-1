@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: ExodiaOS Team
   team_member:
   - name: 'Mahmoud Mohamed '
     image_webp: images/team/ozil.webp
