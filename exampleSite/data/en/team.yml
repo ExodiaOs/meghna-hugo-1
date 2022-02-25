@@ -62,4 +62,6 @@ team:
     designation: Software Engineer
     content: Analyzing and modifying existing software as well as designing, constructing
       and testing end-user applications.
-    social: ''
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/omar-ismail-0855561b1/
