@@ -3,6 +3,19 @@ team:
   enable: true
   title: ExodiaOS Team
   team_member:
+  - name: Abdallah Adham
+    image_webp: images/team/abdallah.webp
+    image: images/team/abdallah.jpg
+    designation: Security Manager
+    content: Cybersecurity enthusiast with proven and ethical hacking, pen-testing
+      and red-team skills.
+    social:
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/abdallah-adham/
+    - icon: ti-github
+      link: https://github.com/0xSkorpioN
+    - icon: ti-dribbble
+      link: https://0xskorpion.github.io/
   - name: 'Mahmoud Mohamed '
     image_webp: images/team/ozil.webp
     image: images/team/ozil.jpg
@@ -17,19 +30,6 @@ team:
       link: https://www.facebook.com/engrody.linux.5/
     - icon: ti-instagram
       link: https://www.instagram.com/mmsaeed509/
-  - name: Abdallah Adham
-    image_webp: images/team/abdallah.webp
-    image: images/team/abdallah.jpg
-    designation: Security Manager
-    content: Cybersecurity enthusiast with proven and ethical hacking, pen-testing
-      and red-team skills.
-    social:
-    - icon: ti-linkedin
-      link: https://www.linkedin.com/in/abdallah-adham/
-    - icon: ti-github
-      link: https://github.com/0xSkorpioN
-    - icon: ti-dribbble
-      link: https://0xskorpion.github.io/
   - name: Hashem Khaled
     image_webp: images/team/hashem.webp
     image: images/team/hashem.jpg
@@ -42,3 +42,23 @@ team:
       link: https://www.linkedin.com/in/hashem-khaled-a0bb3a221
     - icon: ti-facebook
       link: https://www.facebook.com/hashemkhaledd
+  - image: images/team/hassan.jpg
+    designation: Web Developer
+    social:
+    - icon: ti-github
+      link: https://github.com/hassankhamis20
+    - link: https://www.linkedin.com/in/hassan-khamis-5b43441b9
+      icon: ti-linkedin
+    - icon: ti-instagram
+      link: https://www.instagram.com/hassankhamis74/
+    - icon: ti-facebook
+      link: https://www.facebook.com/hassankhamis74
+    name: Hassan Khamis
+    image_webp: images/team/hassan.webp
+    content: A full stack developer who is proficient in both front and back end coding.
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
