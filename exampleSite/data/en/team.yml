@@ -56,9 +56,10 @@ team:
     name: Hassan Khamis
     image_webp: images/team/hassan.webp
     content: A full stack developer who is proficient in both front and back end coding.
-  - name: ''
-    image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
+  - name: Omar Esmail
+    image_webp: images/team/omar.webp
+    image: images/team/omar.jpg
+    designation: Software Engineer
+    content: Analyzing and modifying existing software as well as designing, constructing
+      and testing end-user applications.
     social: ''
