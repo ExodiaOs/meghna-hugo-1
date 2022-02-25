@@ -7,18 +7,21 @@ team:
     image_webp: images/team/ozil.webp
     image: images/team/ozil.jpg
     designation: ExodiaOS Publisher
-    content: Linux administration researcher with self-motivated Cybersecurity skills.
+    content: |-
+      - Linux administration researcher.
+      - Cybersecurity enthusiast.
+      - Acer Predator fanboy
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5
-    - icon: ti-reddit
-      link: https://www.reddit.com/user/mmsaeed509
+    - icon: ti-github
+      link: https://github.com/mmsaeed509
+    - icon: ti-gitlab
+      link: https://gitlab.com/mmsaeed509
     - icon: ti-facebook
       link: https://www.facebook.com/engrody.linux.5/
     - icon: ti-instagram
       link: https://www.instagram.com/mmsaeed509/
-    - icon: ti-twitter
-      link: https://twitter.com/Mahmoudzil4
   - name: Abdallah Adham
     image_webp: images/team/abdallah.webp
     image: images/team/abdallah.jpg
@@ -32,3 +35,12 @@ team:
       link: https://github.com/0xSkorpioN
     - icon: ti-dribbble
       link: https://0xskorpion.github.io/
+  - image: images/team/hashem.jpg
+    social: ''
+    name: Hashem Khaled
+    image_webp: images/team/hashem.webp
+    designation: Network Engineer
+    content: |-
+      - Network Admin.
+      - Linux Admin.
+      - MS Server Admin.
