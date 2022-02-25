@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg2.jpg
-  bg_image_webp: images/backgrounds/bg2.webp
+  bg_image: images/backgrounds/bg1.jpg
+  bg_image_webp: images/backgrounds/bg1.webp
   title: Download now!
   content: |-
     ExodiaOS Beta version is available now.
