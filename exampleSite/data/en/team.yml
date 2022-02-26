@@ -20,7 +20,9 @@ team:
     image_webp: images/team/ozil.webp
     image: images/team/ozil.jpg
     designation: ExodiaOS Publisher
-    content: Linux Enthusiast, Hardware Researcher and Acer Predator fanboy.
+    content: |-
+      Linux/CyberSecurity Enthusiast
+      Hardware/PC/ Laptop Enthusiast
     social:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/mahmoud-mohamed-said-ahmed-a934b21a5
