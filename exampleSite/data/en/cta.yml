@@ -10,4 +10,4 @@ cta:
   button:
     enable: true
     label: Download ExodiaOS
-    link: "#contact"
+    link: https://github.com/Exodia-OS
